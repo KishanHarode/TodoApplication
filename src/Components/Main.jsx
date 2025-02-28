@@ -2,7 +2,7 @@ import React, {  useEffect, useRef, useState } from "react";
 import Heading from "./Heading";
 import Input from "./Input";
 import Button from "./Button";
-import Todos from "./todos";
+import Todos from "./Todos";
 import Text from "./Text";
 import Clear from "./Clear";
 
